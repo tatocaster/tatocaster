@@ -3,6 +3,7 @@
 <a href="http://debuggerpodcast.ge"><img src="https://debuggerpodcast.buzzsprout.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2VWamc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0980f43d53122ba0277d46b0612d6f340e11542d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld282QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpvR1JWUTZER2R5WVhacGRIbEpJZ3RqWlc1MFpYSUdPd2RVT2d0bGVIUmxiblJKSWd3Mk1EQjROakF3QmpzSFZEb01jWFZoYkdsMGVXbFZPZzlqYjJ4dmNuTndZV05sU1NJSmMxSkhRZ1k3QjFRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--18dce6f7f6b21c4b954edd26fbee6b912b5126ef/Profile-3000.jpg" width="150px" text-align="center"/></a>
 
 #### Posts:
+- [Hacker101 CTF — “Hello World” — writeup](https://tatocaster.medium.com/ctf-hello-world-writeup-a5818e09d11a)
 - [Trend Micro CTF 2020 — Keybox writeup](https://tatocaster.medium.com/trend-micro-ctf-2020-keybox-writeup-cf5a69d2d091)
 - [Garmin LiveTrack & Slack Integration Instructions](https://medium.com/@tatocaster/garmin-livetrack-slack-integration-instructions-55bdad4eccff)
 - [წიქარა, ხუთკუნჭულა და სხვა ზღაპრები Software Development-ის შესახებ](https://medium.com/ka-ge/%E1%83%AC%E1%83%98%E1%83%A5%E1%83%90%E1%83%A0%E1%83%90-%E1%83%AE%E1%83%A3%E1%83%97%E1%83%99%E1%83%A3%E1%83%9C%E1%83%AD%E1%83%A3%E1%83%9A%E1%83%90-%E1%83%93%E1%83%90-%E1%83%A1%E1%83%AE%E1%83%95%E1%83%90-%E1%83%96%E1%83%A6%E1%83%90%E1%83%9E%E1%83%A0%E1%83%94%E1%83%91%E1%83%98-software-development-%E1%83%98%E1%83%A1-%E1%83%A8%E1%83%94%E1%83%A1%E1%83%90%E1%83%AE%E1%83%94%E1%83%91-d93324a0137a)
@@ -12,6 +13,6 @@
 #### About
 - [resume](https://drive.google.com/file/d/1q5D07yTEDnHttW62qi--7IHy4ODgfhf7/view)
 - [debugger podcast](http://debuggerpodcast.ge)
-- [medium](https://medium.com/@tatocaster/)
+- [medium](https://tatocaster.medium.com/)
 - [linkedin](https://www.linkedin.com/in/tatocaster/)
 - [speaker](https://sessionize.com/tatocaster)
