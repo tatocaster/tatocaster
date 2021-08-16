@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="http://debuggerpodcast.ge"><img src="https://debuggerpodcast.buzzsprout.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2VWamc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0980f43d53122ba0277d46b0612d6f340e11542d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld282QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpvR1JWUTZER2R5WVhacGRIbEpJZ3RqWlc1MFpYSUdPd2RVT2d0bGVIUmxiblJKSWd3Mk1EQjROakF3QmpzSFZEb01jWFZoYkdsMGVXbFZPZzlqYjJ4dmNuTndZV05sU1NJSmMxSkhRZ1k3QjFRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--18dce6f7f6b21c4b954edd26fbee6b912b5126ef/Profile-3000.jpg" width="150px" text-align="center"/></a>
+<a href="http://debuggerpodcast.ge"><img src="https://debuggerpodcast.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2VWamc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0980f43d53122ba0277d46b0612d6f340e11542d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERZd01IZzJNREFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--8a9b4b1bc245a46b538f72d4d9b2ab0a7fbe8ac1/Profile-3000.jpg" width="150px" text-align="center"/></a>
 
 #### Posts:
 - [Chapter Lead in Agile Culture](https://medium.com/tbc-engineering/chapter-leads-role-in-agile-culture-3db6c39a45c4)
