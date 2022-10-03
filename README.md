@@ -19,7 +19,7 @@
 
 ### About
 - [resume](https://drive.google.com/file/d/1q5D07yTEDnHttW62qi--7IHy4ODgfhf7/view)
+- [speaker profile](https://sessionize.com/tatocaster)
 - [debugger podcast](http://debuggerpodcast.ge)
-- [medium](https://tatocaster.medium.com/)
+- [medium blog](https://tatocaster.medium.com/)
 - [linkedin](https://www.linkedin.com/in/tatocaster/)
-- [speaker](https://sessionize.com/tatocaster)
