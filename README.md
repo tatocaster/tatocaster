@@ -23,3 +23,4 @@
 - [debugger podcast](http://debuggerpodcast.ge)
 - [medium blog](https://tatocaster.medium.com/)
 - [linkedin](https://www.linkedin.com/in/tatocaster/)
+- [mastodon](https://androiddev.social/@tatocaster)
