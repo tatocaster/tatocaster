@@ -24,3 +24,4 @@
 - [medium blog](https://tatocaster.medium.com/)
 - [linkedin](https://www.linkedin.com/in/tatocaster/)
 - [mastodon](https://androiddev.social/@tatocaster)
+- [twitter](https://twitter.com/TatoKutalia)
