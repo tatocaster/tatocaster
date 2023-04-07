@@ -1,7 +1,5 @@
 ## Hi there - გამარჯობა 👋
 
-<a href="https://debuggerpodcast.ge"><img src="https://debuggerpodcast.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2VWamc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0980f43d53122ba0277d46b0612d6f340e11542d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERZd01IZzJNREFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--8a9b4b1bc245a46b538f72d4d9b2ab0a7fbe8ac1/Profile-3000.jpg" width="150px" text-align="center"/></a>
-
 ### Posts:
 - [How I hacked an Android app for a premium feature](https://proandroiddev.com/how-i-hacked-an-android-app-for-a-premium-feature-d9ca74e797ad)
 - [Manage Gradle version conflicts with resolution strategy](https://proandroiddev.com/manage-gradle-version-conflicts-with-strategy-611ac3f6ce19)
@@ -20,8 +18,10 @@
 ### About
 - [resume](https://drive.google.com/file/d/1q5D07yTEDnHttW62qi--7IHy4ODgfhf7/view)
 - [speaker profile](https://sessionize.com/tatocaster)
-- [debugger podcast](http://debuggerpodcast.ge)
 - [medium blog](https://tatocaster.medium.com/)
 - [linkedin](https://www.linkedin.com/in/tatocaster/)
 - [mastodon](https://androiddev.social/@tatocaster)
 - [twitter](https://twitter.com/TatoKutalia)
+- [debugger podcast](http://debuggerpodcast.ge)
+
+<a href="https://debuggerpodcast.ge"><img src="https://debuggerpodcast.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2VWamc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0980f43d53122ba0277d46b0612d6f340e11542d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERZd01IZzJNREFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--8a9b4b1bc245a46b538f72d4d9b2ab0a7fbe8ac1/Profile-3000.jpg" width="150px" text-align="center"/></a>
