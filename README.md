@@ -1,4 +1,4 @@
-## Hi there - გამარჯობა 👋
+## Hi  - გამარჯობა 👋
 
 ### Posts:
 - [How I hacked an Android app for a premium feature](https://proandroiddev.com/how-i-hacked-an-android-app-for-a-premium-feature-d9ca74e797ad)
