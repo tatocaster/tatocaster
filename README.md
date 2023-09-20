@@ -1,6 +1,7 @@
 ## Hi - გამარჯობა 👋
 
 ### Posts:
+- [Compose Modifier.Node and where to find it](https://tatocaster.medium.com/compose-modifier-node-and-where-to-find-it-merab-tato-kutalia-66f891c0e8)
 - [Writing my own game recommendation system](https://tatocaster.medium.com/writing-my-own-game-recommendation-system-b7bab5186d97)
 - [How I hacked an Android app for a premium feature](https://proandroiddev.com/how-i-hacked-an-android-app-for-a-premium-feature-d9ca74e797ad)
 - [Manage Gradle version conflicts with resolution strategy](https://proandroiddev.com/manage-gradle-version-conflicts-with-strategy-611ac3f6ce19)
